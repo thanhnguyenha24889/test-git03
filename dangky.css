@@ -1,0 +1,53 @@
+body {
+    background-color: bisque;
+}
+
+.item {
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.ngang {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.doc {
+    display: flex;
+    flex-direction: column;
+}
+
+#menu, #home {
+    width: 17px;
+    height: fit-content;
+}
+
+.space {
+    flex: 1;
+}
+
+.line-1 {
+    background-color: #f45252;
+    padding: 5px;
+}
+
+.text1 {
+    color: white;
+}
+
+.text2 {
+    color: black;
+}
+
+.fieldName {
+    font-weight: 700;
+}
+.batBuoc {
+    color: red;
+}
+.nhapThongTin {
+
+}
